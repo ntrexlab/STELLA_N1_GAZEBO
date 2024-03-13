@@ -5,7 +5,7 @@
   <version>0.1.0</version>
   <description>STELLA N1 Gazebo simulation package</description>
   <maintainer email="lab@ntrex.co.kr">ntrex</maintainer>
-  <license>MIT</license>
+  <license>MIT</license> 
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
