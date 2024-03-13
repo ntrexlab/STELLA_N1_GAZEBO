@@ -18,7 +18,7 @@ Commands that run empty Gazebo World.
 
 ---
 
-+ ros2 launch stella_gazebo spawn_stella_slam_xacro.launch.py
++ ros2 launch stella_gazebo spawn_stella_slam.launch.py
 
 Command that spawn STELLA N1 for SLAM in Gazebo World.
 
@@ -26,7 +26,7 @@ Command that spawn STELLA N1 for SLAM in Gazebo World.
 
 ---
 
-+ ros2 launch stella_gazebo spawn_stella_ros2_xacro.launch.py
++ ros2 launch stella_gazebo spawn_stella_ros2.launch.py
 
 Command that spawn STELLA N1 for Navigation2 or Teleoperation in Gazebo World.
 
