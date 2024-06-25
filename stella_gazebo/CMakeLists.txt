@@ -46,7 +46,7 @@ install(
   DIRECTORY
     launch
     worlds
-    models
+    # models
   DESTINATION
     share/${PROJECT_NAME}/
 )
