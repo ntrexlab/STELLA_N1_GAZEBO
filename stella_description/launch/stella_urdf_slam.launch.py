@@ -7,7 +7,7 @@ from launch_ros.actions import Node
 
 def generate_launch_description():
 
-    urdf_file = 'stella_slam.urdf'
+    urdf_file = 'stella_slam.urdf.xacro'
     package_description = 'stella_description'
 
     print("Fetching URDF -->")
